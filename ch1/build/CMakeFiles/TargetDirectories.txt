@@ -1,0 +1,5 @@
+/home/jianbo/OpenCV_practice/ch1/build/CMakeFiles/rebuild_cache.dir
+/home/jianbo/OpenCV_practice/ch1/build/CMakeFiles/edit_cache.dir
+/home/jianbo/OpenCV_practice/ch1/build/CMakeFiles/Third_blur.dir
+/home/jianbo/OpenCV_practice/ch1/build/CMakeFiles/First_imread.dir
+/home/jianbo/OpenCV_practice/ch1/build/CMakeFiles/Second_erode.dir
