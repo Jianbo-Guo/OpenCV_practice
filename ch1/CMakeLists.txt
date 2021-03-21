@@ -22,3 +22,8 @@ target_link_libraries(Second_erode ${OpenCV_LIBS})
 #添加一个可执行程序
 add_executable(Third_blur Third_blur.cpp)
 target_link_libraries(Third_blur ${OpenCV_LIBS})
+
+#添加一个可执行程序
+add_executable(Forth_canny Forth_canny.cpp)
+target_link_libraries(Forth_canny ${OpenCV_LIBS})
+
