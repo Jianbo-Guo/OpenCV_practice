@@ -1,4 +1,0 @@
-/home/jianbo/OpenCV_practice/ch2/build/CMakeFiles/rebuild_cache.dir
-/home/jianbo/OpenCV_practice/ch2/build/CMakeFiles/edit_cache.dir
-/home/jianbo/OpenCV_practice/ch2/build/CMakeFiles/First_capture.dir
-/home/jianbo/OpenCV_practice/ch2/build/CMakeFiles/Second_camera.dir
