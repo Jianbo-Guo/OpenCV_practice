@@ -1,0 +1,6 @@
+First_imread为读入图片程序 
+Second_erode为图像腐蚀 
+Third_blur为图像模糊（滤波） 
+Forth_canny为边缘检测 
+Fifth_capture为读取播放视频
+Sixth_camera为调用摄像头采集图像
